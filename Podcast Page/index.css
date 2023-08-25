@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.podcasts-cards-container {
+    padding: 15px;
+}
+
+.details-card {
+    text-align: center;
+    margin: 10px;
+}
+
+
+.podcast-image {
+    height: 112px;
+    width: 144px;
+    margin-top: 10px;
+}
+
+.podcast-name {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color: #151765;
+    margin-top: 5px;
+}
+
+.episodes {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #151765;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.category {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-title {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Podcast-caption {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-episode-container {
+    margin: 10px;
+}
+
+.podcast-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.podcast-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.button {
+    color: #fff;
+    background-color: #141961;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 12px;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: 0px;
+}

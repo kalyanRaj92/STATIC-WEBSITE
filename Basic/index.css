@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.todo-card {
+    background-image: url("https://img.freepik.com/free-vector/indian-set-temples-architecture_25030-39369.jpg?w=826");
+    background-size: cover;
+    height: 100vh;
+}
+
+.todo-card-header {
+    text-align: center;
+}
+
+.todo-card-title {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.todo-card-caption {
+    color: brown;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.todo.title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.todo-description {
+    color: green;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.todo-card-footer {
+    text-align: center;
+}
+
+.button {
+    color: white;
+    background-color: orange;
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+}
+
+.text-underline {
+    color: grey;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: underline;
+}

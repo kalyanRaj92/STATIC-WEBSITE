@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.empower-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.empower-heading {
+    text-align: center;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.empower-text {
+    text-align: center;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.empower-card-item {
+    text-align: center;
+    background-color: #ffffff;
+    width: 200px;
+    border-style: solid;
+    border-color: #cbd2d9;
+    border-radius: 10px;
+    padding: 13px;
+    margin: 10px;
+}
+
+.empower-card-image {
+    width: 90px;
+    height: 60px;
+}
+
+.empower-card-name {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.lists-head {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: black;
+    margin-top: 12px;
+}
+
+.topics-list {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: black;
+    margin-top: 12px;
+}
+
+.button {
+    color: #ffffff;
+    width: 60px;
+    background-color: #225db0;
+}
