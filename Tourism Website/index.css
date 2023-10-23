@@ -4,6 +4,7 @@
   background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
   height: 100vh;
   background-size: cover;
+  background-position: center;
 }
 .tourism-card {
   text-align: center;
